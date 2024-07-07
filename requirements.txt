@@ -4,3 +4,8 @@ lxml==4.9.2
 pandas~=2.2.2
 requests~=2.32.3
 selenium~=4.22.0
+tqdm
+pyautogui
+pyperclip
+wordcloud
+nltk
